@@ -12,7 +12,7 @@ About Me
 
 I am a fourth-year Computer Science Ph.D. student in the [Analysis of Computer Systems Group](https://cs.nyu.edu/acsys/) at NYU's [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), where I am advised by [Professor Patrick Cousot](https://cs.nyu.edu/~pcousot/).
 
-My research interests lie formal methods and static verification, with a focus on [abstract interpretations](https://en.wikipedia.org/wiki/Abstract_interpretation). I am currently working on integrating abstract interpretations with symbolic execution in order to create a symbolic execution abstract domain that over-approximate, rather than under-approximates, program properties. 
+My research interests lie in formal methods and static verification, with a focus on [abstract interpretations](https://en.wikipedia.org/wiki/Abstract_interpretation). I am currently working on integrating abstract interpretations with symbolic execution in order to create a symbolic execution abstract domain that over-approximate, rather than under-approximates, program properties. 
 
 Past Work
 ---
