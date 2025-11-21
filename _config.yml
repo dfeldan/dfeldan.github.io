@@ -27,10 +27,11 @@ author:
   name             : "Daniel Feldan"
   pronouns         : "He/Him"  
   # bio              : "Short biography for the left-hand sidebar"
-  location         : "Philadelphia\ NYC"
+  location         : "Philadelphia & NYC"
   employer         : "New York University"
   uri              : # URL
   email            : "dnf9183+website@nyu.edu" 
+  CV               : "files/Resume.pdf"
 
   # Academic websites
   academia         : # URL
